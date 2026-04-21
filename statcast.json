@@ -1,0 +1,10 @@
+[
+{"player_name":"Aaron Judge","xiso":0.32,"xslg":0.58,"exit_velocity_avg":93,"barrel_batted_rate":0.18,"hard_hit_percent":52,"sweet_spot_percent":38},
+{"player_name":"Shohei Ohtani","xiso":0.31,"xslg":0.57,"exit_velocity_avg":92,"barrel_batted_rate":0.17,"hard_hit_percent":50,"sweet_spot_percent":36},
+{"player_name":"Matt Olson","xiso":0.29,"xslg":0.55,"exit_velocity_avg":91,"barrel_batted_rate":0.16,"hard_hit_percent":49,"sweet_spot_percent":35},
+{"player_name":"Pete Alonso","xiso":0.28,"xslg":0.54,"exit_velocity_avg":91,"barrel_batted_rate":0.15,"hard_hit_percent":48,"sweet_spot_percent":34},
+{"player_name":"Kyle Schwarber","xiso":0.30,"xslg":0.56,"exit_velocity_avg":92,"barrel_batted_rate":0.17,"hard_hit_percent":50,"sweet_spot_percent":33},
+{"player_name":"Yordan Alvarez","xiso":0.31,"xslg":0.58,"exit_velocity_avg":93,"barrel_batted_rate":0.18,"hard_hit_percent":52,"sweet_spot_percent":37},
+{"player_name":"Corey Seager","xiso":0.27,"xslg":0.53,"exit_velocity_avg":90,"barrel_batted_rate":0.14,"hard_hit_percent":47,"sweet_spot_percent":36},
+{"player_name":"Ronald Acuna Jr.","xiso":0.26,"xslg":0.52,"exit_velocity_avg":90,"barrel_batted_rate":0.13,"hard_hit_percent":46,"sweet_spot_percent":35}
+]
